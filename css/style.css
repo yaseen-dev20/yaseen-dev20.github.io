@@ -20,8 +20,8 @@
 #site-header {
     view-transition-name: site-header;
     min-height: 68px;
-    z-index: 100;
     position: relative;
+    z-index: 100;
 }
 * {
     -webkit-box-sizing: border-box;
